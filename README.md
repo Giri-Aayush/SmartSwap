@@ -1,6 +1,5 @@
 # ChargeSwap - Battery swapping system
-
-![image](https://ibb.co/kyrrXRw)
+![image](https://user-images.githubusercontent.com/101140354/217812985-65ae5f8d-14e8-41a6-b2fc-f9a9b117da4c.png)
 
 ## Problem Statement
 
